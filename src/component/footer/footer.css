@@ -1,0 +1,17 @@
+.footer{
+    border: 5px solid rgb(224, 220, 220);
+    text-align: center;
+}
+.connect{
+    font-size: 20px;
+    padding: 15px 85px;
+    border-radius: 50px;
+    background: linear-gradient(264deg, #DF8908 -5.09%, #8415FF 106.28%);
+    cursor: pointer;
+}
+.connect:hover{
+    transform: scale(1.0);
+    border: 4px solid #e0482e;
+    border-radius: 50px;
+    transition: 0.3s;
+}
